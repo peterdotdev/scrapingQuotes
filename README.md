@@ -14,6 +14,7 @@ Also we will save the data not only as a .csv but also as a .json file.
 
 To run this properly you'll need to run these commands with the npm:
     npm init -y
+    npm i puppeteer
     npm i cheerio
     npm i request --save
     npm i fs-extra
