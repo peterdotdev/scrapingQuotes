@@ -1,5 +1,5 @@
 # scrapingQuotes
-Let's scrape quotes
+Let's scrape quotes!
 
 I take Fazt's video as a reference:
 
