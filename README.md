@@ -13,10 +13,10 @@ So we can get all the quotes, its author and tags with cheerio.
 Also we will save the data not only as a .csv but also as a .json file.
 
 To run this properly you'll need to run these commands with the npm:
-npm init -y
-npm i puppeteer
-npm i cheerio
-npm i request --save
-npm i fs-extra
+npm init -y,
+npm i puppeteer,
+npm i cheerio,
+npm i request --save,
+npm i fs-extra.
 
 Hope this helps!
